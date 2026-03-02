@@ -1,4 +1,4 @@
-# LiteLLM SambaNova Proxy
+# Codex with SambaNova MiniMax 2.5
 
 A LiteLLM proxy configuration for running SambaNova models (MiniMax-M2.5) with Docker, with full prompt/completion logging and Codex CLI integration.
 
