@@ -1,4 +1,4 @@
-# LiteLLM Proxy Setup — Issues & Resolutions
+# Setup — Issues & Resolutions
 
 ## Issue 1: Port 5432 already in use
 
